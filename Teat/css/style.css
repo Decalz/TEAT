@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+header, footer {
+    padding: 1em;
+    color: #959492;
+    background-color: #42413D;
+    clear: both;
+    text-align: center;
+}
+
+nav {
+	text-align: center;
+	background-color: #FFCE2B;
+	color: #42413D;
+	font-size: 1.5em;
+	padding: 0.5em;
+	margin-bottom: 1px;
+}
+
+h1.content {
+	margin: 0px;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	margin: 0px;
+	color: #959492;	
+}
+
+a {
+	text-decoration: none;
+	color: #42413D;
+}
+
+section {
+	background-color: darkslategrey;
+	padding: 1%;
+	color: white;
+	overflow: hidden;
+}
+
+aside {
+	margin-left: 60%;
+	width: 32%;
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	color: lightgray;
+}
+
+section.left {
+	float: left;
+	width: 60%;
+}
+
+body {
+	background-color: black;
+}
+
+.center {
+	text-align: center;
+}
+
+
+
+table.items {
+	font-size: 1.25em;
+	border: 5px solid white;
+	min-width: 90%;
+}
+
+td,th {
+	padding: 5px;
+	text-align: left;
+}
+
+td.items {
+	border: 5px solid white;
+}
+
+img {
+	max-height: 10em;
+	max-width: 10em;
+}
+
+a.items {
+	color: white;
+}
+
+
